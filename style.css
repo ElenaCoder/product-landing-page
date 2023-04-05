@@ -303,3 +303,39 @@ nav > ul {
         margin-bottom: 10px;
     }
 }
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: var(--color-black);
+}
+
+footer > ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer > ul > li {
+    padding: 0 5px;
+}
+
+.contact-info {
+    color: var(--color-lightgray);
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.3rem;
+}
+
+.contact-link a,
+.contact-link {
+    font-size: 0.9rem;
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--color-lightgray);
+    margin-left: 0.5rem;
+}
+
+.contact-link a:hover {
+    /* text-decoration:underline; */
+    color: var(--color-lightorange);
+}
