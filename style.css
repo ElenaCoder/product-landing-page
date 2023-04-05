@@ -101,7 +101,6 @@ header {
     font-size: 1.5rem;
 }
 
-
 nav {
     font-weight: 400;
 }
@@ -215,7 +214,7 @@ nav > ul {
     }
 }
 
-#pet-care-basics {
+#pet-care {
     margin-top: 50px;
     display: flex;
     justify-content: center;
