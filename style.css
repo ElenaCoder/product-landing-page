@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+:root {
+    --color-white: #ffffff;
+    --color-orange: #f6722a;
+    --color-lightorange: #f19a0f;
+    --color-black: #0c2c38;
+    --color-darkblue: #3d88a5;
+    --color-lightblue: #1c96c6;
+    --color-lightgray: #eee;
+}
